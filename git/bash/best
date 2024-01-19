@@ -9,3 +9,5 @@ echo "This school is so cool!"
 i#!/bin/bash
 echo "This school is so cool!"
 >>>>>>> update_script
+#!/bin/bash
+echo "Best School"
