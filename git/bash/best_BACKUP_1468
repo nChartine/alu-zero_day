@@ -6,6 +6,6 @@ echo "This school is so cool!"
 echo "This school is so cool!"
 >>>>>>> update_script
 =======
-#!/bin/bash
+i#!/bin/bash
 echo "This school is so cool!"
 >>>>>>> update_script
